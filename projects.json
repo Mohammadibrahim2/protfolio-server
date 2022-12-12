@@ -1,0 +1,41 @@
+[
+    {
+        "id":"1",
+        "img1":"https://i.ibb.co/7tsfycM/Screenshot-132.png",
+        "img2":"https://i.ibb.co/4jcxDzx/Screenshot-131.png",
+        "img3":"https://i.ibb.co/Jch2MLh/Screenshot-130.png",
+        "details1":"A digital MCQ platform for the learner",
+        "details2":"can cheak how much have learnt by participating in the MCQ part",
+        "details3":"Learners can see where they are right or wrong",
+        "details4":"For premium access,must be registered or logged in",
+        "git":"https://github.com/Mohammadibrahim2/Multiple-Choice-Quaere",
+        "livesite":"https://multiple-choice-quaere2.netlify.app/"
+    },
+    {
+        "id":"2",
+        "img1":"https://i.ibb.co/d2QrNLp/Screenshot-129.png",
+        "img2":"https://i.ibb.co/sy0466F/Screenshot-128.png",
+        "img3":"https://i.ibb.co/fq27gM2/Screenshot-127.png",
+        "details1":"Make math easy by this site",
+        "details2":"all your needed courses are added here for your convenience",
+        "details3":"Required courses can download or can take premium access",
+        "details4":"For premium access,must be registered or logged in",
+        "git":"https://github.com/Mohammadibrahim2/Alpha-Math",
+        "livesite":"https://glistening-chaja-bc8f94.netlify.app/"
+
+
+    },
+    {
+        "id":"3",
+        "img1":"https://i.ibb.co/Js3gqhT/Screenshot-123.png",
+        "img2":"https://i.ibb.co/ph0wRJ5/Screenshot-124.png",
+        "img3":"https://i.ibb.co/QXQ9Mtc/Screenshot-125.png",
+        "details1":"A digital shopping site whre anytime user can shop",
+        "details2":"Its easy to use and can also calculate correctly ",
+        "details3":"Also responsive site to use ",
+     
+        "git":"https://github.com/Mohammadibrahim2/Fitness",
+        "livesite":"https://lighthearted-tanuki-c641df.netlify.app/"
+
+    }
+]
