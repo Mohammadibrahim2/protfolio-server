@@ -10,11 +10,11 @@ const courses=require("./projects.json");
 
 
 
-   app.get("/subprojects/:id", (req,res)=>{
+   app.get("/workdetails/:id", (req,res)=>{
     const id =req.params.id
-    const project=aboutproject.find(num=>num.id===id)
+    const details=aboutproject.find(num=>num.id===id)
           
-            res.send( project)
+            res.send(details)
             })
 
   
