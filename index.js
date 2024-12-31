@@ -19,7 +19,10 @@ const courses=require("./projects.json");
 
   
 
-
+app.get("/allprojects",(req,res)=>{
+const projects=aboutproject
+    res.send(projects)
+})
 app.listen(port,()=>{
     console.log("port-5000",port)
 })
